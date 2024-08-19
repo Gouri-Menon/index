@@ -1,0 +1,57 @@
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p{
+    background-color: red;
+}
+.first{
+    display:inline-block;
+    background-color: plum;
+    width: 400px;
+    height: 400px;
+    margin: 50px;
+}
+.second{
+    background-color: plum;
+    width:400px;
+    height: 400px;
+    margin:50px;
+}
+.third{
+    background-color: plum;
+    width:400px;
+    height: 400px;
+    margin:50px;
+}
+.new{
+    background-color: purple;
+    width:1500px;
+    height: 500px;
+    margin:50px;
+    display:flex;
+    justify-content: flex-end;
+}
+.one{
+    background-color: rgb(17, 15, 17);
+    width: 400px;
+    height: 400px;
+    padding: 20px;
+    flex-grow: 4;
+}
+.two{
+    background-color: rgb(16, 13, 16);
+    width:400px;
+    height: 400px;
+    padding:20px;
+    
+}
+.three{
+    background-color:black;
+    width:400px;
+    height: 400px;
+    padding:20px;
+}
+.main{
+    display:inline-block;
+
+}
